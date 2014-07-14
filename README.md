@@ -9,4 +9,5 @@ libraries used:
 The properties file nyt_xw.properties is where you set your user/pass
 
 Provide a space-delimited set of dates to download .puz files for those days.
-*e.g. 06-01-2014 06-02-2014 ... 
+
+*e.g. 06-01-2014 06-02-2014 ...
